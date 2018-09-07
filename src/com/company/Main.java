@@ -40,6 +40,7 @@ public class Main {
                 System.out.println("Please enter numbers between 0-60 only.");
             }
         } catch (InputMismatchException e) {
+            // output error
             System.out.println("Please enter only numbers.");
         }
     }
