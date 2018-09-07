@@ -24,7 +24,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         // prompts user to enter numbers 1-60.
-        System.out.print("Please minutes [0-60]: ");
+        System.out.print("Please enter minutes [0-60]: ");
 
         // try catch block that will check N if its an integer type.
         try {
