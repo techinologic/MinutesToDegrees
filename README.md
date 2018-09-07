@@ -9,6 +9,8 @@ Coppin CS Coding Challenge #2
    If the input is: 15 then your program should return 90 because
    a 90-degree angle is formed by the minute hand and
    the 12 o’clock mark on the clock.
+   
+   Souce Code Click [here](https://github.com/techinologic/MinutesToDegrees/blob/master/src/com/company/Main.java)
 
 ![SS1](https://github.com/techinologic/MinutesToDegrees/blob/master/cc1_ss1.PNG)
 ![SS2](https://github.com/techinologic/MinutesToDegrees/blob/master/cc1_ss2.PNG)
